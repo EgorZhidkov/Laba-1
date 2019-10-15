@@ -123,7 +123,7 @@ namespace laba3._1
                     }
                     else
                     {
-                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.ForegroundColor = ConsoleColor.Green;
 
                         Console.Write("X любое");
                         Console.ResetColor();
