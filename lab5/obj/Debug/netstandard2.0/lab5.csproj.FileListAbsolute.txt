@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\bin\Debug\netstandard2.0\lab5.deps.json
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\bin\Debug\netstandard2.0\lab5.dll
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\bin\Debug\netstandard2.0\lab5.pdb
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\obj\Debug\netstandard2.0\lab5.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\obj\Debug\netstandard2.0\lab5.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\obj\Debug\netstandard2.0\lab5.AssemblyInfo.cs
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\obj\Debug\netstandard2.0\lab5.dll
+\\Mac\Home\Desktop\BKIT3\laba1\lab5\obj\Debug\netstandard2.0\lab5.pdb

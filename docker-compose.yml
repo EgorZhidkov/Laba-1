@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  lab2:
+    image: ${DOCKER_REGISTRY-}lab2
+    build:
+      context: .
+      dockerfile: lab2\Dockerfile

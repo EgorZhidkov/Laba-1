@@ -49,7 +49,7 @@ namespace laba1
                 }
             }
         }*/
-        public static void TryParseName(ref Double test)
+        public static void TryParseNameS(ref Double test)
         {
             string A = Console.ReadLine();
             bool count = false;
@@ -69,7 +69,7 @@ namespace laba1
                     Console.WriteLine("Не правильно, введите еще раз");
                     Console.ResetColor();
                     A = Console.ReadLine();
-                    
+
                 }
             }
         }
@@ -92,11 +92,11 @@ namespace laba1
             if (val1 != true || val2 != true || val3 != true)
             {
                 Console.Write("Введите коэффициент A:");
-                TryParseName(ref a);
+                TryParseNameS(ref a);
                 Console.Write("Введите коэффициент B:");
-                TryParseName(ref b);
+                TryParseNameS(ref b);
                 Console.Write("Введите коэффициент C:");
-                TryParseName(ref c);
+                TryParseNameS(ref c);
             }
             double D = (Math.Pow(b, 2) - (4 * a * c));
             double first_value_of_d = ((-b + Math.Sqrt(D)) / (2 * a));
@@ -200,41 +200,5 @@ namespace laba1
             }
             Console.ReadKey();
         }
-        /*if (Discriminant(ref A, ref B, ref C) < 0)
-        {
-            Console.Write("Дискриминант меньше 0, корней нет");
-        }
-        else
-        {
-          if(first_value_of_d < 0 && second_value_of_d >= 0)
-            {
-                if(second_value_of_d == 0)
-                {
-                    Console.Write("Корни уравнения равны 0");
-                }
-                else
-                {
-                    Console.WriteLine($"x1 = {Math.Sqrt(second_value_of_d)}; x2 = {-Math.Sqrt(second_value_of_d)}");
-                }
-
-            }
-            if(first_value_of_d >= 0 && second_value_of_d < 0)
-            {
-                if(first_value_of_d == 0)
-                {
-                    Console.Write("Корни уравнения равны 0");
-
-                }
-                else
-                {
-                    Console.WriteLine($"x1 = {Math.Sqrt(first_value_of_d)}; x2 = {-Math.Sqrt(first_value_of_d)}");
-
-                }
-            }
-
-        }*/
-        /*Console.WriteLine(A);
-        Console.WriteLine(B);
-        Console.WriteLine(C);*/
     }
 }

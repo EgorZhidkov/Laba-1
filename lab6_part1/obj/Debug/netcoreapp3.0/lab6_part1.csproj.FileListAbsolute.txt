@@ -1,0 +1,11 @@
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.exe
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.deps.json
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.runtimeconfig.json
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.runtimeconfig.dev.json
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.dll
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\bin\Debug\netcoreapp3.0\lab6_part1.pdb
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\obj\Debug\netcoreapp3.0\lab6_part1.csprojAssemblyReference.cache
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\obj\Debug\netcoreapp3.0\lab6_part1.AssemblyInfoInputs.cache
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\obj\Debug\netcoreapp3.0\lab6_part1.AssemblyInfo.cs
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\obj\Debug\netcoreapp3.0\lab6_part1.dll
+\\mac\Home\Desktop\BKIT3\laba1\lab6_part1\obj\Debug\netcoreapp3.0\lab6_part1.pdb

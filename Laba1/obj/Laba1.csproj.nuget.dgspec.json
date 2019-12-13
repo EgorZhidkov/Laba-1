@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egorzhidkov\\source\\repos\\BKIT\\Laba1\\Laba1\\Laba1.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\BKIT3\\laba1\\laba1\\laba1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egorzhidkov\\source\\repos\\BKIT\\Laba1\\Laba1\\Laba1.csproj": {
+    "\\\\Mac\\Home\\Desktop\\BKIT3\\laba1\\laba1\\laba1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egorzhidkov\\source\\repos\\BKIT\\Laba1\\Laba1\\Laba1.csproj",
-        "projectName": "Laba1",
-        "projectPath": "C:\\Users\\egorzhidkov\\source\\repos\\BKIT\\Laba1\\Laba1\\Laba1.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\BKIT3\\laba1\\laba1\\laba1.csproj",
+        "projectName": "laba1",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\BKIT3\\laba1\\laba1\\laba1.csproj",
         "packagesPath": "C:\\Users\\egorzhidkov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egorzhidkov\\source\\repos\\BKIT\\Laba1\\Laba1\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\BKIT3\\laba1\\laba1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\egorzhidkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,12 +47,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
